@@ -69,4 +69,4 @@ public class Module implements IXposedHookLoadPackage {
 
         XposedBridge.log(TAG + ": UICC privileges bypass + activation code copier installed on " + lpparam.packageName);
     }
-}}
+}
